@@ -31,4 +31,8 @@ public class TestJava {
 	public void test(){
 		System.out.println("this is testBraanches");
 	}
+	
+	public void test2(){
+		System.out.println("this is test2");
+	}
 }
