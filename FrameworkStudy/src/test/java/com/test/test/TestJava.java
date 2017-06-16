@@ -27,4 +27,8 @@ public class TestJava {
 		System.out.println(m.size());
 		
 	}
+	
+	public void test(){
+		System.out.println("this is testBraanches");
+	}
 }
