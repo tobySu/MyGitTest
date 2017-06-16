@@ -25,6 +25,6 @@ public class TestJava {
 		m.put("1", 1);
 		m.put("2", 2);
 		System.out.println(m.size());
-		System.out.println("this is git test code ...");
+		
 	}
 }
